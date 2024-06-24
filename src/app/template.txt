@@ -1,0 +1,11 @@
+<ul>
+  <li>
+        <div class="details">
+          <h2>Title</h2>
+          <p>Price</p>
+          <div class="product">
+            <img src="imagePath" alt="alt text">
+          </div>
+        </div>
+  </li>
+</ul>
